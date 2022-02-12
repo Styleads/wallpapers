@@ -1,4 +1,6 @@
 # Wallpaper Preview
+[Jump to dark wallpapers](
+
 
 ![](https://github.com/Styleads/wallpapers/blob/main/6b97ff3b-9d69-4d80-ac1e-f2835d7e1366.png)
 ![](https://github.com/Styleads/wallpapers/blob/main/b29d428995368315f3f5a21002b566ed.jpg)
@@ -22,3 +24,16 @@
 ![](https://github.com/Styleads/wallpapers/blob/main/wallhaven-ox8pl5.jpg)
 ![](https://github.com/Styleads/wallpapers/blob/main/wallhaven-r7lo91_3840x2400.png)
 ![](https://github.com/Styleads/wallpapers/blob/main/wallpaper.png)
+
+# Dark 
+
+![](https://github.com/Styleads/wallpapers/blob/main/dark/black-and-white-aesthetic-anime-character-jpirei6nnzu1qp6m.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/black-and-white-aesthetic-doodle-characters-crev1jf5zhx2oapc.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/black-and-white-aesthetic-glowing-keyboard-45cx71l747whidc4.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/black-and-white-aesthetic-mountain-emblem-f1nlex7c0mc49d9n.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/black-and-white-aesthetic-mountain-pillars-tsl1dou3532ks76i.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/black-and-white-aesthetic-ripples-from-rain-l4bjrhl8d4u3ddd7.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/black-and-white-aesthetic-winding-road-9642s5hv2j4hdl4m.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/blogger-pinterest-hd-cmjrszr89673jn1v.jpg)
+![](https://github.com/Styleads/wallpapers/blob/main/dark/wallhaven-lmlk52_1920x1080.png)
+
