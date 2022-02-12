@@ -1,5 +1,5 @@
 # Wallpaper Preview
-[Jump to dark wallpapers](https://github.com/Styleads/wallpapers/blob/main/dark/wallhaven-lmlk52_1920x1080.png)
+[Jump to dark wallpapers](#dark)
 
 
 ![](https://github.com/Styleads/wallpapers/blob/main/6b97ff3b-9d69-4d80-ac1e-f2835d7e1366.png)
